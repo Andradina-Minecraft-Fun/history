@@ -38,3 +38,11 @@ Um senhor de idade indefinida e misteriosa, de uma linhagem de Guardiões de Ben
 
 ## Caverna das Lanternas Frias
 
+# Referencias
+
+# Mapa
+
+![image](https://github.com/Andradina-Minecraft-Fun/history/assets/2607849/47b1bfd6-e9e1-4ec4-ac9c-41f18b04d2fc)
+![image](https://github.com/Andradina-Minecraft-Fun/history/assets/2607849/b8fc9076-4a5f-4764-badd-133e3281dc96)
+
+
