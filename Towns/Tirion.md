@@ -44,11 +44,11 @@ Um senhor de idade indefinida e misteriosa, de uma linhagem de Guardiões de Ben
 
 ### pallets
 
-https://www.blockpalettes.com/palette/3
-https://www.blockpalettes.com/palette/71
-https://www.blockpalettes.com/palette/106
-https://www.blockpalettes.com/palette/123
-https://www.blockpalettes.com/palette/334
+- https://www.blockpalettes.com/palette/3
+- https://www.blockpalettes.com/palette/71
+- https://www.blockpalettes.com/palette/106
+- https://www.blockpalettes.com/palette/123
+- https://www.blockpalettes.com/palette/334
 
 ### ideia
 ![image](https://github.com/Andradina-Minecraft-Fun/history/blob/main/images/Tirion01.jpeg?raw=true)
