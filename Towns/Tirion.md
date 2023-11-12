@@ -50,6 +50,10 @@ Um senhor de idade indefinida e misteriosa, de uma linhagem de Guardiões de Ben
 - https://www.blockpalettes.com/palette/123
 - https://www.blockpalettes.com/palette/334
 
+### localização
+
+https://github.com/Andradina-Minecraft-Fun/history/blob/main/images/Tirion02.jpeg
+
 ### ideia
 ![image](https://github.com/Andradina-Minecraft-Fun/history/blob/main/images/Tirion01.jpeg?raw=true)
 
